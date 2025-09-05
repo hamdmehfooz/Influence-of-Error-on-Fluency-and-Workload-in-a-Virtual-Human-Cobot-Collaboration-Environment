@@ -1,0 +1,11 @@
+#---Prototype---
+#How to run Source Code?
+Download Unity3d v2022.3.23f1 
+Clone the Repository from Git and open the project from folder named as Thesis_Prototype in Unity 3D
+Install XR Interaction Toolkit from Package Manager in Unity3D
+Install XR Core Utilities and XR hands from Package Manager in Unity3D
+Install OpenXR plugin from Package Manager in Unity3D
+Download and Install Oculus Software
+Login to Oculus Software and configure hardware (Meta Quest 3)
+Establish the link between Meta Quest 3 and PC using link cable and oculus software
+Run the project in Unity3D

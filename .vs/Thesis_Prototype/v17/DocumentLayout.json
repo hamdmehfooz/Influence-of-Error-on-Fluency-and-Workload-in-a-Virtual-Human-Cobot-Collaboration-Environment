@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|d:\\thesis\\latest_prototype\\thesis_prototype\\assets\\scripts\\task2errortime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task2errortime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\tasktwoerrorindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tasktwoerrorindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\hybridik\\iktargetfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\hybridik\\iktargetfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\animatehandoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatehandoninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\startassemblyonbuttonpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startassemblyonbuttonpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\stopassemblymanualautomated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stopassemblymanualautomated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\worksequenceone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\worksequenceone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\storetaskonetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storetaskonetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\taskonetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taskonetimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\objectspickdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectspickdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\storetaskfourtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storetaskfourtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\startassemblyonbuttonpressmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startassemblyonbuttonpressmanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\manualtrainingon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manualtrainingon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\storetaskfivetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storetaskfivetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\storetaskthreetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storetaskthreetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\taskfivetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taskfivetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\taskfourtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taskfourtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\taskthreetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taskthreetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\startassemblymisaligned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startassemblymisaligned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\storetasktwotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\storetasktwotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\hybridik\\scripts\\main\\hybridikconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\hybridik\\scripts\\main\\hybridikconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\hybridik\\scripts\\joint limits\\dynamicjointlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\hybridik\\scripts\\joint limits\\dynamicjointlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\hybridik\\scripts\\main\\hybridinversekinematicsnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\hybridik\\scripts\\main\\hybridinversekinematicsnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\tasktwotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tasktwotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\workcelltwotriggercriclipanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\workcelltwotriggercriclipanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\triggercoilanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggercoilanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\triggercriclipanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggercriclipanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\triggeranimationafterfiltersnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggeranimationafterfiltersnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\triggerbearinganimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerbearinganimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\playassemblycompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playassemblycompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\parentconstraintfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parentconstraintfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\playringsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playringsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\extra\\enhancing-drone-operations-within-the-industrial-metaverse-main\\enhancing-drone-operations-within-the-industrial-metaverse-main\\Assets\\Scripts\\StoreData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\PlayFilterSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\stopassemblymisalignedpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stopassemblymisalignedpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\stopassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stopassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\controllerinputanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllerinputanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189F5666-1959-8D91-3C9E-C9A112A405C5}|Assembly-CSharp-Editor.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\hybridik\\scripts\\main\\editor\\hybridiknodeinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189F5666-1959-8D91-3C9E-C9A112A405C5}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\hybridik\\scripts\\main\\editor\\hybridiknodeinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Joint Limits\\Editor\\DynamicJointLimitSwingTwistInspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\startassemblyonbuttonpresserror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startassemblyonbuttonpresserror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\scripts\\ikhandgrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ikhandgrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\assets\\external_elements\\ffoscontrollerdata\\displayinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5E7EEC-D9F0-CB7D-6973-625EC83BFA08}|Assembly-CSharp.csproj|solutionrelative:assets\\external_elements\\ffoscontrollerdata\\displayinputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\SnapZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridIKStretchJunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\TurnOnScrewTwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\SessionOneEnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task2ErrorTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\Task2ErrorTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Task2ErrorTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\Task2ErrorTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Task2ErrorTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:51:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreTaskOneTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskOneTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreTaskOneTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskOneTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreTaskOneTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:30:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskOneTimer.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskOneTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskOneTimer.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskOneTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskOneTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:27:45.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StopAssemblyManualAutomated.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StopAssemblyManualAutomated.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StopAssemblyManualAutomated.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StopAssemblyManualAutomated.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StopAssemblyManualAutomated.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:57:45.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkSequenceOne.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\WorkSequenceOne.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkSequenceOne.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\WorkSequenceOne.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkSequenceOne.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:22:45.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IKTargetFollow.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\IKTargetFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\HybridIK\\IKTargetFollow.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\IKTargetFollow.cs",
+              "RelativeToolTip": "Assets\\HybridIK\\IKTargetFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:07:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskTwoErrorIndicator.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskTwoErrorIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskTwoErrorIndicator.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskTwoErrorIndicator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskTwoErrorIndicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:42:23.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObjectsPickDrop.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ObjectsPickDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectsPickDrop.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ObjectsPickDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectsPickDrop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:17:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartAssemblyOnButtonPress.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyOnButtonPress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAssemblyOnButtonPress.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyOnButtonPress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAssemblyOnButtonPress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:07:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimateHandOnInput.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\AnimateHandOnInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimateHandOnInput.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\AnimateHandOnInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimateHandOnInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:23:09.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreTaskFourTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskFourTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreTaskFourTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskFourTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreTaskFourTime.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:53:34.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoreTaskFiveTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskFiveTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreTaskFiveTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskFiveTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreTaskFiveTime.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:57:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SessionOneEnd.cs",
+              "DocumentMoniker": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\SessionOneEnd.cs",
+              "ToolTip": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\SessionOneEnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T01:32:39.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManualTrainingOn.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ManualTrainingOn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManualTrainingOn.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ManualTrainingOn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManualTrainingOn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:07:33.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartAssemblyOnButtonPressManual.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyOnButtonPressManual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAssemblyOnButtonPressManual.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyOnButtonPressManual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAssemblyOnButtonPressManual.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:42:24.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreTaskThreeTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskThreeTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreTaskThreeTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskThreeTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreTaskThreeTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:47:49.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskFiveTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskFiveTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskFiveTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskFiveTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskFiveTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:48:17.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskFourTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskFourTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskFourTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskFourTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskFourTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:48:04.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskThreeTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskThreeTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskThreeTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskThreeTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskThreeTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:43:56.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DynamicJointLimit.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Joint Limits\\DynamicJointLimit.cs",
+              "RelativeDocumentMoniker": "Assets\\HybridIK\\Scripts\\Joint Limits\\DynamicJointLimit.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Joint Limits\\DynamicJointLimit.cs",
+              "RelativeToolTip": "Assets\\HybridIK\\Scripts\\Joint Limits\\DynamicJointLimit.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:49:15.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartAssemblyMisAligned.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyMisAligned.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAssemblyMisAligned.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyMisAligned.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAssemblyMisAligned.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwEsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:50:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskTwoTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskTwoTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaskTwoTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TaskTwoTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaskTwoTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:37:27.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreTaskTwoTime.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskTwoTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreTaskTwoTime.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StoreTaskTwoTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreTaskTwoTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:57:35.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HybridIKConstraint.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridIKConstraint.cs",
+              "RelativeDocumentMoniker": "Assets\\HybridIK\\Scripts\\Main\\HybridIKConstraint.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridIKConstraint.cs",
+              "RelativeToolTip": "Assets\\HybridIK\\Scripts\\Main\\HybridIKConstraint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:41:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HybridInverseKinematicsNode.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridInverseKinematicsNode.cs",
+              "RelativeDocumentMoniker": "Assets\\HybridIK\\Scripts\\Main\\HybridInverseKinematicsNode.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridInverseKinematicsNode.cs",
+              "RelativeToolTip": "Assets\\HybridIK\\Scripts\\Main\\HybridInverseKinematicsNode.cs",
+              "ViewState": "AgIAAA0DAAAAAAAAAAAowCUDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:19:56.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkCellTwoTriggerCriclipAnim.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\WorkCellTwoTriggerCriclipAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorkCellTwoTriggerCriclipAnim.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\WorkCellTwoTriggerCriclipAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorkCellTwoTriggerCriclipAnim.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:33:09.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TriggerCoilAnimation.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerCoilAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerCoilAnimation.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerCoilAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerCoilAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:08:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TriggerCriclipAnimation.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerCriclipAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerCriclipAnimation.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerCriclipAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerCriclipAnimation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:06:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TriggerAnimationAfterFilterSnap.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerAnimationAfterFilterSnap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerAnimationAfterFilterSnap.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerAnimationAfterFilterSnap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerAnimationAfterFilterSnap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:40:38.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ParentConstraintFix.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ParentConstraintFix.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParentConstraintFix.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ParentConstraintFix.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParentConstraintFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:13:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlayAssemblyCompleted.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\PlayAssemblyCompleted.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayAssemblyCompleted.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\PlayAssemblyCompleted.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayAssemblyCompleted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:45:21.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TriggerBearingAnimation.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerBearingAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerBearingAnimation.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\TriggerBearingAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerBearingAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:19:23.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StoreData.cs",
+              "DocumentMoniker": "D:\\extra\\enhancing-drone-operations-within-the-industrial-metaverse-main\\enhancing-drone-operations-within-the-industrial-metaverse-main\\Assets\\Scripts\\StoreData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\extra\\enhancing-drone-operations-within-the-industrial-metaverse-main\\enhancing-drone-operations-within-the-industrial-metaverse-main\\Assets\\Scripts\\StoreData.cs",
+              "ToolTip": "D:\\extra\\enhancing-drone-operations-within-the-industrial-metaverse-main\\enhancing-drone-operations-within-the-industrial-metaverse-main\\Assets\\Scripts\\StoreData.cs",
+              "RelativeToolTip": "..\\..\\..\\extra\\enhancing-drone-operations-within-the-industrial-metaverse-main\\enhancing-drone-operations-within-the-industrial-metaverse-main\\Assets\\Scripts\\StoreData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:35:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayRingSound.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\PlayRingSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayRingSound.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\PlayRingSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayRingSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:56:13.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayFilterSound.cs",
+              "DocumentMoniker": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\PlayFilterSound.cs",
+              "ToolTip": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\PlayFilterSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:01:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StopAssemblyMisAlignedPart.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StopAssemblyMisAlignedPart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StopAssemblyMisAlignedPart.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StopAssemblyMisAlignedPart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StopAssemblyMisAlignedPart.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:08:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StopAssembly.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StopAssembly.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StopAssembly.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StopAssembly.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StopAssembly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:30:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ControllerInputAnimation.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ControllerInputAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControllerInputAnimation.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\ControllerInputAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControllerInputAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:55:12.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HybridIKNodeInspector.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\Editor\\HybridIKNodeInspector.cs",
+              "RelativeDocumentMoniker": "Assets\\HybridIK\\Scripts\\Main\\Editor\\HybridIKNodeInspector.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\Editor\\HybridIKNodeInspector.cs",
+              "RelativeToolTip": "Assets\\HybridIK\\Scripts\\Main\\Editor\\HybridIKNodeInspector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:45:07.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DynamicJointLimitSwingTwistInspector.cs",
+              "DocumentMoniker": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Joint Limits\\Editor\\DynamicJointLimitSwingTwistInspector.cs",
+              "ToolTip": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Joint Limits\\Editor\\DynamicJointLimitSwingTwistInspector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:50:46.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StartAssemblyOnButtonPressError.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyOnButtonPressError.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartAssemblyOnButtonPressError.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\StartAssemblyOnButtonPressError.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartAssemblyOnButtonPressError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:07:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IKHandGrab.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\IKHandGrab.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IKHandGrab.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\Scripts\\IKHandGrab.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IKHandGrab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:09:02.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TurnOnScrewTwo.cs",
+              "DocumentMoniker": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\TurnOnScrewTwo.cs",
+              "ToolTip": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\TurnOnScrewTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:31:35.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SnapZone.cs",
+              "DocumentMoniker": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\SnapZone.cs",
+              "ToolTip": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\Scripts\\SnapZone.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:47:12.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DisplayInputData.cs",
+              "DocumentMoniker": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\External_Elements\\FFOSControllerData\\DisplayInputData.cs",
+              "RelativeDocumentMoniker": "Assets\\External_Elements\\FFOSControllerData\\DisplayInputData.cs",
+              "ToolTip": "D:\\Thesis\\Latest_Prototype\\Thesis_Prototype\\Assets\\External_Elements\\FFOSControllerData\\DisplayInputData.cs",
+              "RelativeToolTip": "Assets\\External_Elements\\FFOSControllerData\\DisplayInputData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:18:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HybridIKStretchJunction.cs",
+              "DocumentMoniker": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridIKStretchJunction.cs",
+              "ToolTip": "C:\\Users\\hamdm\\Thesis_Prototype\\Assets\\HybridIK\\Scripts\\Main\\HybridIKStretchJunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:36:38.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
